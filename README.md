@@ -18,7 +18,7 @@ Two more extracts are being prepared and are not published yet: a policy-safe cu
 
 ## Case studies
 
-**[AI deployment case studies]({{REPO_B_URL}})** — architecture, safety choices, incidents, and what I would do differently. Every number carries a class: measured, verified, designed-not-measured, or unknown. Business outcomes I have not measured — legal win rates, revenue, ROI — are marked unknown rather than implied.
+**[AI deployment case studies](https://github.com/founder-felipe/ai-deployment-case-studies)** — architecture, safety choices, incidents, and what I would do differently. Every number carries a class: measured, verified, designed-not-measured, or unknown. Business outcomes I have not measured — legal win rates, revenue, ROI — are marked unknown rather than implied.
 
 ## Contact
 
