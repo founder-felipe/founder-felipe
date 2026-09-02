@@ -12,7 +12,7 @@ Forward-deployed AI engineer. I put AI systems into the daily operations of real
 
 ## Runnable
 
-**[AI Receptionist Lab]({{REPO_C_URL}})** — a voice receptionist with calendar booking, built around a barbershop's workflow. Clone it and run `make demo`; the test suite runs with zero credentials. Live integration against a real calendar was verified on 2026-08-21, and two bugs that only appear when running live — date resolution and a transient auth failure — are fixed in the configuration here. Honesty status: no production callers, no pilots, no revenue.
+**[AI Receptionist Lab](https://github.com/founder-felipe/ai-receptionist-lab)** — a voice receptionist with calendar booking, built around a barbershop's workflow. Clone it and run `make demo`; the test suite runs with zero credentials. Live integration against a real calendar was verified on 2026-08-21, and two bugs that only appear when running live — date resolution and a transient auth failure — are fixed in the configuration here. Honesty status: no production callers, no pilots, no revenue.
 
 Two more extracts are being prepared and are not published yet: a policy-safe customer-reactivation engine (typed hard stops, exit-code contract, no model in the decision path) and an autonomous error-remediation loop with a graduated autonomy policy and dual kill switches. Their production run ledger is written up in the case studies.
 
